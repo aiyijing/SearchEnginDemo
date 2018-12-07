@@ -1,0 +1,8 @@
+certifi==2018.11.29
+chardet==3.0.4
+idna==2.7
+jieba==0.39
+lxml==4.2.5
+prettytable==0.7.2
+requests==2.20.1
+urllib3==1.24.1

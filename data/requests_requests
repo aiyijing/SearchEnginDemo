@@ -1,0 +1,25 @@
+idna 2.8 released
+windows for ubuntu18.04,data={"id":None},no response
+https://docs.python-requests.org certificate's CN is *.readthedocs.org
+HTTP CONNECT request sent in different packets while using an HTTPS Proxy 
+requests really long compared to curl
+cannot use json() on request in python 3.7 (TypeError: must be str, not bytes)
+Make a seperate repo for requests3.
+chunk_size=None does not work as expected when streaming a response
+SSLError(SSLError(0, 'unknown error (_ssl.c:3517)
+Connect and Trace methods not supported
+respect no_proxy environment variable and proxies['no'] parameter
+respect_retry_after_header in urllib3.util.retry.Retry is not respected
+Option for retrieving peer's TLS certificate
+Using a `json.JSONDecoder` fails when simplejson is present
+Running prepare_headers on PreparedRequest break it
+`no_proxy` implementation is too greedy
+What about `before_request` hook?
+fails on older TLS stacks with OpenSSL 1.1.1pre9
+Crash when using requests + concurrent.futures.ProcessPoolExecutor
+urllib3 Retry and Response Hooks (Duplicates #4514)
+Requests toolbelt HostHeaderSSL Adapter has issues with non-standard ports. 
+`RequestException` does not contain `request` as a field in some situation.
+Request with single form parameter evaluating to `None` duplicates `Host` headers
+Response.content is wasteful in time and memory for large inputs
+The conflict between proxies and TLSv1.2

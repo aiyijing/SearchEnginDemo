@@ -1,0 +1,25 @@
+SSR publich path https://xx generated to https:/xx
+can't use `:srcObject.prop` to set prop to null
+[weex]TypeError: CreateListFromArrayLike called on non-object
+Keydown Events not Working in IE11 for Space bar, Escape and Delete
+match (getTypeIndex) is called lot of time when props changed and consume lot of memory
+Unexpected component destroyed trigger by sibling component
+First character or paste is not accepted for watch when assigning placeholder to "" in <textarea> tag with IE11
+Conditional template not rendering when it has the same slot name
+Throw error when using interpolation instead of JS expression for slot names
+vnode reference to original component (reopened)
+Compiler like Svelte.js or Stencil.js
+SSR error during $style injection on cached components
+Allow <noscript> in Vue templates for SSR usage
+v-enter class is removed immediately when using animation transition
+'inject' Properties are not added to the CombinedVueInstance type definition
+Bind vm instance to local async component registration
+Child transitions are triggered when the parent element is hidden
+A deliberately empty slot-scope attribute will not be rendered as a scoped slot
+Non-breaking space acts different than other characters - outputs "&nbsp;" in template when passed via props
+An API to allow replacing observer implementation with alternative implementation
+Functional component not rendering named slot (following #8871)
+Binding the bind directive and change events to the <input/> tag doesn¡®t work
+cannot watch unicode properties like  'a.ÖÐÎÄ' 
+Optional Chaining Error with Babel
+Check if tag is already in the window.customElements registry on top of checking config ignoredElements

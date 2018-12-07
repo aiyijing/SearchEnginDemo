@@ -1,0 +1,25 @@
+add ACPI ID for Lenovo IdeaPad 330-15ARR
+spi: dw: fix potential variable assignment error
+Sunxi next
+Fix broken Gmane URLs
+Add E-mu 0404 USB automatic sample rate
+Update xpad.c
+Allow root processes to call kernel task port
+added ELAN061E TOUCHPAD
+Updated the code-of-conduct to a much better code of conduct
+Merge pull request #1 from torvalds/master
+Documented ac97_bus.c
+Reversed it to the code of conflict
+I changed it to the KDE code of conduct
+Optimize strspn.
+Delete code-of-conduct.rst
+Replaced the Code of Conduct with the Code of Conflict
+corrected CoC typos
+Code cleanup in linux/sched/
+Rewriting code-of-conduct.rst to pinch scope and define it better
+Let's re-insert the Code of Conflict. Greg Kroah-Hartman is an usurper.
+Revert "Code of Conduct: Let's revamp it."
+Update bfa_defs.h
+Removed something that no one likes about Linux
+Fix tcmu sample code
+ahci.c -- add Marvell 88SE6141 SATA controller

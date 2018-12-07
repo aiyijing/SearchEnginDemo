@@ -1,0 +1,25 @@
+rows.Close() must not overwrite buffer used by rows.Next()
+Convert UnexpectedEOF to ErrBadConn when safe APIs
+Check connection liveness before sending query
+parseTime and DATE
+handleOkPacket panic: runtime error: slice bounds out of range
+When to drop Go 1.8 support?
+Need a public method for replace placeholder with real datas
+PingContext only times out after a second
+_binary method some Middleware not support
+Request to support MySQL 8.0 latest collations: utf8mb4_0900_ai_ic, etc....
+Improve doc about 0000-00-00 date/datetime when loc is not UTC
+Any way to support JSON values inserted using []byte rather than string
+Support for OK packets representing EOF
+Allow to specify an auth plugin
+Implement dialog auth plugin
+Allow dialers and TLS configuration to be added directly to MySQLDriver type
+Unexpected result of using in DSN string collation and charset parameters at the same time.
+Intermittent error - sql: driver does not support non-default isolation level
+Use Docker Compose for testing
+Implement Connector interface
+Go 1.9 "Out"
+[Question] Exposing internal types.
+TLS Connections Reused After Expired
+Logger interface compatible with testing package
+ParseDSN doesn't support usernames containing colons

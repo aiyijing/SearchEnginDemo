@@ -1,0 +1,25 @@
+BigramCollocationFinder.score_ngrams with BigramAssocMeasure.likelihood_ratio raises ValueError: math domain error
+Programmatic access to collocation/concordance lists
+Dozens of test failures from unchanged develop branch
+Import Prolog parse tree into ntlk.Tree
+Cider score for Image Captioning is not present in NLTK
+Using REPP Tokenizer on Windows
+NLTK download method fails with error
+wordnet (value error)
+parallelism in nltk
+Wordnet: synset_from_sense_key returns the wrong Synset
+Unable to find french synonym 
+Runtime warning when using nltk.downloader from CLI
+Unable to find "/usr/share/nltk_data" when adding binary and data files.
+Sentence tokenizer fails on simple case
+Converting russian RNC tagset to universal tagset
+nltk.word_tokenize() (Treebank Tokenizer) tokenize double quotes into 2 backticks
+Tree pretty print branch position is wrong
+Add Perplexity metric
+Replacing Tkinter
+Loading NLTK corpus like Wordnet from blobs
+Cannot Import PunktWordTokenizer in nltk 3.3
+Dangerous default values in arguments
+Artifacts from Python <=2.6  
+Odd StringIO imports in nltk.compat
+Non parents initialization 

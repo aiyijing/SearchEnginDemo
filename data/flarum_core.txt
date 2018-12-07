@@ -1,0 +1,25 @@
+Load More button on profile posts view unavailable for certain users
+Guests can see user profile regardless of the permission "view user list"
+[Markdown] Toolbar missing image button
+Improvements to image handling in posts
+[Markdown] Tabbing out of post composer does not work
+Reply composer window sometimes outside the edge of the screen, on mobile
+Improve the skeleton for shared hosting
+Top of Emojis in Safari is slightly cut
+[Emoji] Twemojify emoji in discussion titles
+"Send test email" button
+New command to publish assets
+JavaScript module lazy loading
+Refactor exception handling, rendering, and reporting
+Upgrade to Laravel 5.7
+[Markdown] Inserting nested Markdown does not work properly
+Extenders are not using the same wording
+PHP Extender: Serializing / forum api attributes
+[Likes] b8 liking deleted post gives error
+Remove all beta references in installer / config / code
+b8 behavior to suppress initial errors during boot
+copying font-awesome fonts might fails
+Users API POST does not set relationships for Groups
+Upgrade twitter bootstrap (js) to version 4
+Post counter is not counting right
+Something went wrong while trying to load the full version of this site.
