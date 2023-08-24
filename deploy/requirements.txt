@@ -4,5 +4,5 @@ idna==2.7
 jieba==0.39
 lxml==4.9.1
 prettytable==0.7.2
-requests==2.20.1
+requests==2.31.0
 urllib3==1.26.5
