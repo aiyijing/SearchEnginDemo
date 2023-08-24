@@ -2,7 +2,7 @@ certifi==2023.7.22
 chardet==3.0.4
 idna==2.7
 jieba==0.39
-lxml==4.2.5
+lxml==4.9.1
 prettytable==0.7.2
 requests==2.20.1
 urllib3==1.26.5
